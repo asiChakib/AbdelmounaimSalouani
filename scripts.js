@@ -3,7 +3,7 @@ function footAnalyzer ()  {
 }
 
 function educasept () {
-    window.open("https://github.com/asiChakib/ProjetLongTOB/tree/main/pl-main", "_blank")
+    window.open("https://github.com/asiChakib/ProjetLongTOB/tree/main/pl-main", "_blank");
 }
 
 function llmWiki() {
