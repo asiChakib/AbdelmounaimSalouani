@@ -2,6 +2,10 @@ function footAnalyzer ()  {
     window.open("./project3.html", "_blank");
 }
 
+function educasept () {
+    window.open("https://github.com/asiChakib/ProjetLongTOB/tree/main/pl-main", "_blank")
+}
+
 function llmWiki() {
     window.open("https://en.wikipedia.org/wiki/Large_language_model", "_blank")
 }
