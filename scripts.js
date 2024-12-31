@@ -1,5 +1,5 @@
 function footAnalyzer ()  {
-    window.open("./project3.html", "_blank");
+    window.open("https://github.com/asiChakib/FootballAnalysis", "_blank");
 }
 
 function educasept () {
