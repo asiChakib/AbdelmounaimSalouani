@@ -18,6 +18,10 @@ function visionWiki() {
     window.open("https://en.wikipedia.org/wiki/Computer_vision", "_blank")
 }
 
+function resume() {
+    window.open("https://drive.google.com/drive/folders/1_zf2PNMvpP8td1W54ztcfY-5Apt8QDiT?usp=sharing", "_blank")
+}
+
 function sendEmail() {
     const name = document.getElementById("name").value;
     const email = document.getElementById("email").value;
